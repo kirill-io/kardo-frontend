@@ -6,7 +6,7 @@
 
 ## Превью проекта
 
-![Превью приложения МБОУ АЛГОСОШ](./src/shared/assets/images/preview.jpg)
+![Превью проекта "Кардо"](./src/shared/assets/images/preview.jpg)
 
 ## Ссылка на демо
 
